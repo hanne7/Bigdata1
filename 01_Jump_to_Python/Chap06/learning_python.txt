@@ -1,0 +1,3 @@
+in python you can store as much information as you want.
+in python you can connect pieces of information.
+in python you can model real-world situations.

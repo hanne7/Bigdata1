@@ -23,4 +23,4 @@ class Multi(Resource):
 
 api.add_resource(Multi,'/multi/<int:num>')
 if __name__ == '__main__':
-    app.run(host='192.168.0.38')
+    app.run(host='192.168.0.27')

@@ -1,0 +1,11 @@
+[
+    {
+        "category": "RN1",
+        "fcstValue": 0
+    },
+    {
+        "mangName": "도시대기",
+        "pm10Value": 25,
+        "pm25Value": 12
+    }
+]

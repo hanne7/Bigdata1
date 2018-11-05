@@ -1,0 +1,6272 @@
+[
+    {
+        "ForNum": 95,
+        "NatNum": 180121,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 16,
+        "NatNum": 110559,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 33,
+        "NatNum": 3666,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 2178,
+        "NatNum": 70430,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 1490,
+        "NatNum": 23340,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 223,
+        "NatNum": 17432,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 185,
+        "NatNum": 224869,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 122,
+        "NatNum": 164407,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 170,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 93,
+        "NatNum": 3596,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 2985,
+        "NatNum": 96517,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 977,
+        "NatNum": 18564,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 322,
+        "NatNum": 14546,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 364,
+        "NatNum": 254101,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 165,
+        "NatNum": 160232,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 213,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 27,
+        "NatNum": 3245,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 2605,
+        "NatNum": 84223,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 1500,
+        "NatNum": 16000,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 741,
+        "NatNum": 9519,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 301,
+        "NatNum": 562803,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 192,
+        "NatNum": 335902,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 159,
+        "NatNum": 551,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 109,
+        "NatNum": 3975,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 5776,
+        "NatNum": 186756,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 4617,
+        "NatNum": 42502,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 803,
+        "NatNum": 7787,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 382,
+        "NatNum": 576082,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 170,
+        "NatNum": 321773,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 136,
+        "NatNum": 712,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 88,
+        "NatNum": 5530,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 7471,
+        "NatNum": 241560,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 5222,
+        "NatNum": 49743,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 656,
+        "NatNum": 18995,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 515,
+        "NatNum": 590901,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 291,
+        "NatNum": 356723,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 83,
+        "NatNum": 845,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 25,
+        "NatNum": 4264,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 3025,
+        "NatNum": 97800,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 2916,
+        "NatNum": 28445,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 633,
+        "NatNum": 17662,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 452,
+        "NatNum": 638346,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 208,
+        "NatNum": 349576,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 233,
+        "NatNum": 472,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 25,
+        "NatNum": 4472,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 3230,
+        "NatNum": 104422,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 1974,
+        "NatNum": 18166,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 648,
+        "NatNum": 28741,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 595,
+        "NatNum": 710600,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 233,
+        "NatNum": 461000,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 253,
+        "NatNum": 142,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 41,
+        "NatNum": 6075,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 4252,
+        "NatNum": 137492,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 2983,
+        "NatNum": 25971,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 1646,
+        "NatNum": 56865,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 756,
+        "NatNum": 644792,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 265,
+        "NatNum": 431523,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 230,
+        "NatNum": 4183,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 100,
+        "NatNum": 4489,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 3345,
+        "NatNum": 108159,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 2402,
+        "NatNum": 23707,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 793,
+        "NatNum": 9128,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 2902,
+        "NatNum": 1012242,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 595,
+        "NatNum": 416154,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 270,
+        "NatNum": 29519,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 99,
+        "NatNum": 5189,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 4781,
+        "NatNum": 154578,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 5348,
+        "NatNum": 46999,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 1329,
+        "NatNum": 5711,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 1272,
+        "NatNum": 730058,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 522,
+        "NatNum": 237828,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 250,
+        "NatNum": 4114,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 136,
+        "NatNum": 3501,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 2193,
+        "NatNum": 70904,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 1991,
+        "NatNum": 19895,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 977,
+        "NatNum": 4960,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 1185,
+        "NatNum": 475223,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 545,
+        "NatNum": 171120,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 178,
+        "NatNum": 342,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 37,
+        "NatNum": 3459,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 2255,
+        "NatNum": 72895,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 1320,
+        "NatNum": 13509,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 1411,
+        "NatNum": 12105,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 95,
+        "NatNum": 135415,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 16,
+        "NatNum": 110559,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 26,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 57,
+        "NatNum": 6364,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 5854,
+        "NatNum": 11226,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 1122,
+        "NatNum": 20211,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 994,
+        "NatNum": 14182,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 98,
+        "NatNum": 224869,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 25,
+        "NatNum": 164407,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 134,
+        "NatNum": 6529,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 3884,
+        "NatNum": 73797,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 1333,
+        "NatNum": 18270,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 681,
+        "NatNum": 10650,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 134,
+        "NatNum": 314110,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 86,
+        "NatNum": 160232,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 84,
+        "NatNum": 123,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 148,
+        "NatNum": 6047,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 3743,
+        "NatNum": 71124,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 983,
+        "NatNum": 14825,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 385,
+        "NatNum": 3997,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 394,
+        "NatNum": 531700,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 167,
+        "NatNum": 301005,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 422,
+        "NatNum": 479,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 202,
+        "NatNum": 7090,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 6114,
+        "NatNum": 197698,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 2677,
+        "NatNum": 48810,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 1090,
+        "NatNum": 4969,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 468,
+        "NatNum": 564783,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 175,
+        "NatNum": 333119,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 15,
+        "NatNum": 835,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 109,
+        "NatNum": 8726,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 8386,
+        "NatNum": 271133,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 3147,
+        "NatNum": 62412,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 601,
+        "NatNum": 14430,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 432,
+        "NatNum": 575915,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 186,
+        "NatNum": 344607,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 65,
+        "NatNum": 830,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 118,
+        "NatNum": 7403,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 3524,
+        "NatNum": 113954,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 1467,
+        "NatNum": 32020,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 893,
+        "NatNum": 23558,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 531,
+        "NatNum": 649665,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 194,
+        "NatNum": 317081,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 74,
+        "NatNum": 244,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 126,
+        "NatNum": 7801,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 3076,
+        "NatNum": 99447,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 569,
+        "NatNum": 17189,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 995,
+        "NatNum": 3237,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 584,
+        "NatNum": 729667,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 153,
+        "NatNum": 415941,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 142,
+        "NatNum": 126,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 68,
+        "NatNum": 13292,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 3117,
+        "NatNum": 100771,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 986,
+        "NatNum": 22501,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 1016,
+        "NatNum": 55171,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 602,
+        "NatNum": 677271,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 207,
+        "NatNum": 410161,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 87,
+        "NatNum": 5224,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 76,
+        "NatNum": 10224,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 3129,
+        "NatNum": 101166,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 1253,
+        "NatNum": 22826,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 363,
+        "NatNum": 6892,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 2956,
+        "NatNum": 1166273,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 602,
+        "NatNum": 444481,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 57,
+        "NatNum": 16053,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 88,
+        "NatNum": 14643,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 6108,
+        "NatNum": 197504,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 3375,
+        "NatNum": 51069,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 1254,
+        "NatNum": 789056,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 510,
+        "NatNum": 246541,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 52,
+        "NatNum": 2341,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 92,
+        "NatNum": 9393,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 1545,
+        "NatNum": 49953,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 891,
+        "NatNum": 14733,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 1067,
+        "NatNum": 474261,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "동화사",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 523,
+        "NatNum": 167116,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "파계사",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 79,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "구암마을",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 59,
+        "NatNum": 8059,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 1715,
+        "NatNum": 55446,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "우방타워랜드",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 709,
+        "NatNum": 14385,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 1590,
+        "NatNum": 10488,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 13130,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201301"
+    },
+    {
+        "ForNum": 119,
+        "NatNum": 11177,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201301"
+    },
+    {
+        "ForNum": 1542,
+        "NatNum": 25507,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201301"
+    },
+    {
+        "ForNum": 110,
+        "NatNum": 22300,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201301"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 12113,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201302"
+    },
+    {
+        "ForNum": 175,
+        "NatNum": 14295,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201302"
+    },
+    {
+        "ForNum": 941,
+        "NatNum": 10632,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201302"
+    },
+    {
+        "ForNum": 181,
+        "NatNum": 12313,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201302"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 27823,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201303"
+    },
+    {
+        "ForNum": 150,
+        "NatNum": 12010,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201303"
+    },
+    {
+        "ForNum": 1201,
+        "NatNum": 24356,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201303"
+    },
+    {
+        "ForNum": 169,
+        "NatNum": 5258,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201303"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 23462,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201304"
+    },
+    {
+        "ForNum": 118,
+        "NatNum": 11357,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201304"
+    },
+    {
+        "ForNum": 1694,
+        "NatNum": 38646,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201304"
+    },
+    {
+        "ForNum": 249,
+        "NatNum": 3799,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201304"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 25314,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201305"
+    },
+    {
+        "ForNum": 197,
+        "NatNum": 16629,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201305"
+    },
+    {
+        "ForNum": 2806,
+        "NatNum": 51166,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201305"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 11897,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201305"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 21468,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201306"
+    },
+    {
+        "ForNum": 371,
+        "NatNum": 12799,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201306"
+    },
+    {
+        "ForNum": 1224,
+        "NatNum": 27912,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201306"
+    },
+    {
+        "ForNum": 261,
+        "NatNum": 25893,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201306"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 341,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201307"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 14615,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201307"
+    },
+    {
+        "ForNum": 109,
+        "NatNum": 11966,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201307"
+    },
+    {
+        "ForNum": 779,
+        "NatNum": 13106,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201307"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 27778,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201307"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 417,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201308"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 21920,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201308"
+    },
+    {
+        "ForNum": 320,
+        "NatNum": 17830,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201308"
+    },
+    {
+        "ForNum": 646,
+        "NatNum": 18628,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201308"
+    },
+    {
+        "ForNum": 105,
+        "NatNum": 73118,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201308"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 272,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201309"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 24709,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201309"
+    },
+    {
+        "ForNum": 136,
+        "NatNum": 12956,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201309"
+    },
+    {
+        "ForNum": 1196,
+        "NatNum": 25986,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201309"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 11161,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201309"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 318,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201310"
+    },
+    {
+        "ForNum": 2402,
+        "NatNum": 41012,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201310"
+    },
+    {
+        "ForNum": 256,
+        "NatNum": 14508,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201310"
+    },
+    {
+        "ForNum": 2400,
+        "NatNum": 25986,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201310"
+    },
+    {
+        "ForNum": 171,
+        "NatNum": 922,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201310"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 563,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201311"
+    },
+    {
+        "ForNum": 2388,
+        "NatNum": 41893,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201311"
+    },
+    {
+        "ForNum": 172,
+        "NatNum": 13003,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201311"
+    },
+    {
+        "ForNum": 838,
+        "NatNum": 17470,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201311"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 170,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201311"
+    },
+    {
+        "ForNum": 13,
+        "NatNum": 190,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201312"
+    },
+    {
+        "ForNum": 1405,
+        "NatNum": 15226,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201312"
+    },
+    {
+        "ForNum": 266,
+        "NatNum": 10782,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201312"
+    },
+    {
+        "ForNum": 546,
+        "NatNum": 15504,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201312"
+    },
+    {
+        "ForNum": 133,
+        "NatNum": 9728,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201312"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 772,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 90,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 1075,
+        "NatNum": 18474,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 164,
+        "NatNum": 12066,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 906311,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 106132,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 2197,
+        "NatNum": 93353,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 861,
+        "NatNum": 26062,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 103,
+        "NatNum": 22730,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 67438,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 691,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 203,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 1188,
+        "NatNum": 20416,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 155,
+        "NatNum": 10067,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 25748,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 80418,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 1775,
+        "NatNum": 83561,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 490,
+        "NatNum": 15842,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 319,
+        "NatNum": 703,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 36808,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 14,
+        "NatNum": 1116,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 293,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 1233,
+        "NatNum": 21195,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 105,
+        "NatNum": 13939,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 14032,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 181792,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 2521,
+        "NatNum": 89608,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 584,
+        "NatNum": 15648,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 190,
+        "NatNum": 4745,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 36271,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 6,
+        "NatNum": 1253,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 67,
+        "NatNum": 409,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 1107,
+        "NatNum": 21041,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 122,
+        "NatNum": 9911,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 15633,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 157790,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 1258,
+        "NatNum": 36069,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 1124,
+        "NatNum": 26971,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 190,
+        "NatNum": 4745,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 34353,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 150,
+        "NatNum": 1527,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 646,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 1230,
+        "NatNum": 24759,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 232,
+        "NatNum": 14280,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 20862,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 164419,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 2699,
+        "NatNum": 65938,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 1124,
+        "NatNum": 26971,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 174,
+        "NatNum": 12938,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 61001,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 186,
+        "NatNum": 2108,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 113,
+        "NatNum": 538,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 1070,
+        "NatNum": 20325,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 111,
+        "NatNum": 13159,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 16577,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 99932,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 7800,
+        "NatNum": 60536,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 862,
+        "NatNum": 22695,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 129,
+        "NatNum": 17764,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 43166,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 56,
+        "NatNum": 2087,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 386,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 870,
+        "NatNum": 17411,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 191,
+        "NatNum": 12790,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 20102,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 85501,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 11693,
+        "NatNum": 63253,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 468,
+        "NatNum": 10408,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 310,
+        "NatNum": 30129,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 45635,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 2,
+        "NatNum": 2703,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 342,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 1290,
+        "NatNum": 25826,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 1061,
+        "NatNum": 11129,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 27884,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 135452,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 13888,
+        "NatNum": 83476,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 623,
+        "NatNum": 17714,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 288,
+        "NatNum": 41014,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 66301,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 60,
+        "NatNum": 2410,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 49,
+        "NatNum": 297,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 1656,
+        "NatNum": 27613,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 106,
+        "NatNum": 12258,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 210787,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 123033,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 3545,
+        "NatNum": 54515,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 625,
+        "NatNum": 22538,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 118,
+        "NatNum": 1344,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 39660,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 81,
+        "NatNum": 2801,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 453,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 50441,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 99,
+        "NatNum": 15671,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 151404,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 1767,
+        "NatNum": 42919,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 838,
+        "NatNum": 39070,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 216,
+        "NatNum": 2729,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 75688,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 7345,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 14,
+        "NatNum": 2264,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 32,
+        "NatNum": 565,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 41541,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 96,
+        "NatNum": 14774,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 3253,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 96292,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 867,
+        "NatNum": 52735,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 1215,
+        "NatNum": 15327,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 72,
+        "NatNum": 7343,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 49761,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 3601,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 15,
+        "NatNum": 187,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 589,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 12143,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 131,
+        "NatNum": 13909,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 14840,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 103090,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 1797,
+        "NatNum": 86220,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 613,
+        "NatNum": 7608,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 5256,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 63002,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 620,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 25,
+        "NatNum": 1738,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 325,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 17973,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 139,
+        "NatNum": 13393,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 21900,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 5937,
+        "NatNum": 112796,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 1276,
+        "NatNum": 75599,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 657,
+        "NatNum": 13824,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 22,
+        "NatNum": 21205,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 106912,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1665,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 80,
+        "NatNum": 1641,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 468,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 19039,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 102,
+        "NatNum": 13058,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 22623,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 4994,
+        "NatNum": 94892,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 1487,
+        "NatNum": 69601,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 187,
+        "NatNum": 6179,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 59464,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1577,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 39,
+        "NatNum": 1815,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 46,
+        "NatNum": 305,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 24465,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 69,
+        "NatNum": 10343,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 12801,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 6362,
+        "NatNum": 120874,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 1287,
+        "NatNum": 58083,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 44,
+        "NatNum": 1468,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 32618,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 4343,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 153,
+        "NatNum": 1765,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 463,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 25480,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 132,
+        "NatNum": 12482,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 16062,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 8301,
+        "NatNum": 157716,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 1125,
+        "NatNum": 47756,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 12217,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 47397,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 4105,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 131,
+        "NatNum": 2934,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 697,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 34133,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 188,
+        "NatNum": 16545,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 21794,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 10806,
+        "NatNum": 205311,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 1546,
+        "NatNum": 50285,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 342,
+        "NatNum": 13541,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 11508,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 70813,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 8941,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 19,
+        "NatNum": 2456,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 181,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 16704,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 127,
+        "NatNum": 14145,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 8990,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 2799,
+        "NatNum": 53179,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 448,
+        "NatNum": 32789,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 466,
+        "NatNum": 15712,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2805,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 11555,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 3405,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 27,
+        "NatNum": 2672,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 378,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 19311,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 102,
+        "NatNum": 11597,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 17329,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 41,
+        "NatNum": 96321,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 259,
+        "NatNum": 52416,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 512,
+        "NatNum": 16532,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 28125,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 31257,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 66764,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 349,
+        "NatNum": 2566,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 486,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 28127,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 5988,
+        "addrCd": 2720,
+        "gungu": "남구",
+        "resNm": "앞산케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 129,
+        "NatNum": 15458,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 33567,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 160,
+        "NatNum": 129502,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 681,
+        "NatNum": 64718,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 523,
+        "NatNum": 16858,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 30112,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 63139,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 3329,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 854,
+        "NatNum": 2643,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 75,
+        "NatNum": 442,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 23811,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 8913,
+        "addrCd": 2720,
+        "gungu": "남구",
+        "resNm": "앞산케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 891,
+        "NatNum": 16954,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 16158,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 581,
+        "NatNum": 117102,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 419,
+        "NatNum": 43425,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 562,
+        "NatNum": 19293,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 34566,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 65124,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 4897,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 404,
+        "NatNum": 2069,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 434,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 51096,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 12241,
+        "addrCd": 2720,
+        "gungu": "남구",
+        "resNm": "앞산케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 4287,
+        "NatNum": 11130,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 18999,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 1280,
+        "NatNum": 124447,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 535,
+        "NatNum": 49219,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 553,
+        "NatNum": 19425,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 31125,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 66255,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 3502,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 238,
+        "NatNum": 1737,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 11,
+        "NatNum": 450,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 35642,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 11387,
+        "addrCd": 2720,
+        "gungu": "남구",
+        "resNm": "앞산케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 112,
+        "NatNum": 20273,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 25283,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 536,
+        "NatNum": 78123,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 395,
+        "NatNum": 61448,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 484,
+        "NatNum": 17112,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 27501,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 61120,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 3133,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 79,
+        "NatNum": 375,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 10857,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 303,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 16009,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 10451,
+        "addrCd": 2720,
+        "gungu": "남구",
+        "resNm": "앞산케이블카",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 177,
+        "NatNum": 9946,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 25621,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 775,
+        "NatNum": 133761,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 417,
+        "NatNum": 72960,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 481,
+        "NatNum": 14110,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 8460,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 58121,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 822,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 13,
+        "sido": "대구광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 32,
+        "NatNum": 292,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 572,
+        "NatNum": 12359,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 230,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 17117,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 104,
+        "NatNum": 13680,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 25931,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 738,
+        "NatNum": 125598,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 512,
+        "NatNum": 93197,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 512,
+        "NatNum": 14110,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 30,
+        "NatNum": 20125,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 35215,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1756,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 9,
+        "NatNum": 305,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 630,
+        "NatNum": 12106,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 214,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 16271,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 104,
+        "NatNum": 20713,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 15167,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 854,
+        "NatNum": 134264,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 1119,
+        "NatNum": 75598,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 668,
+        "NatNum": 15612,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 195,
+        "NatNum": 7521,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 31252,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1758,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 61,
+        "NatNum": 929,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 11,
+        "NatNum": 7352,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 442,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 20229,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 84,
+        "NatNum": 12077,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 14915,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 1089,
+        "NatNum": 142539,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 491,
+        "NatNum": 60179,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 753,
+        "NatNum": 16288,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 39,
+        "NatNum": 1578,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 33785,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 3758,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 40,
+        "NatNum": 974,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 35,
+        "NatNum": 7934,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 460,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 30443,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 661,
+        "NatNum": 22158,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 15785,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 1361,
+        "NatNum": 225379,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 1410,
+        "NatNum": 28728,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 578,
+        "NatNum": 16353,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 122217,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 45665,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 3587,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 22,
+        "NatNum": 1605,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 30,
+        "NatNum": 11146,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 795,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 31008,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 296,
+        "NatNum": 26818,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 18730,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 2523,
+        "NatNum": 206042,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 1038,
+        "NatNum": 29854,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 754,
+        "NatNum": 30957,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 69,
+        "NatNum": 52482,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 779,
+        "NatNum": 78175,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 180,
+        "NatNum": 11175,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 93,
+        "NatNum": 881,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 832,
+        "NatNum": 7673,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 42,
+        "NatNum": 422,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 24621,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 126,
+        "NatNum": 11500,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 17215,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 2732,
+        "NatNum": 101268,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 1168,
+        "NatNum": 27122,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 212,
+        "NatNum": 15175,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 75,
+        "NatNum": 46155,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 390,
+        "NatNum": 305849,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 135,
+        "NatNum": 6194,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 65,
+        "NatNum": 1597,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 1218,
+        "NatNum": 8841,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 290,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 21006,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 372,
+        "NatNum": 16079,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 14432,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 981,
+        "NatNum": 100565,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 1245,
+        "NatNum": 62013,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 3314,
+        "NatNum": 10467,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 355,
+        "NatNum": 69493,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 190,
+        "NatNum": 43010,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 97,
+        "NatNum": 4540,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 45,
+        "NatNum": 1406,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 997,
+        "NatNum": 11111,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 396,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 24170,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 155,
+        "NatNum": 18766,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 14751,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 1728,
+        "NatNum": 145437,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 1135,
+        "NatNum": 72961,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 3582,
+        "NatNum": 13892,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 353,
+        "NatNum": 89095,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 332,
+        "NatNum": 64352,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 24,
+        "NatNum": 4495,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 15,
+        "NatNum": 1551,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 67,
+        "NatNum": 8930,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 23,
+        "NatNum": 210,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 24117,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 647,
+        "NatNum": 15222,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 15070,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 1128,
+        "NatNum": 110592,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 1547,
+        "NatNum": 46924,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 3606,
+        "NatNum": 18942,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 25,
+        "NatNum": 19468,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 319,
+        "NatNum": 43257,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 102,
+        "NatNum": 5527,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 20,
+        "NatNum": 1757,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 51,
+        "NatNum": 8938,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 450,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 47316,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 146,
+        "NatNum": 17673,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 6618,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 2766,
+        "NatNum": 165386,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 1514,
+        "NatNum": 47152,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 3189,
+        "NatNum": 24172,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 45549,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 75,
+        "NatNum": 1178,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 19,
+        "NatNum": 6133,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 434,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 49238,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 190,
+        "NatNum": 11834,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 12728,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 1441,
+        "NatNum": 156081,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 1089,
+        "NatNum": 46983,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 2038,
+        "NatNum": 12525,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 19378,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 976,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "구암서원",
+        "rnum": 1,
+        "sido": "대구광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 29,
+        "NatNum": 5836,
+        "addrCd": 2711,
+        "gungu": "중구",
+        "resNm": "향촌문화관",
+        "rnum": 2,
+        "sido": "대구광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 100,
+        "NatNum": 211,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "대구시니어체험관",
+        "rnum": 3,
+        "sido": "대구광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 18157,
+        "addrCd": 2714,
+        "gungu": "동구",
+        "resNm": "팔공산 케이블카",
+        "rnum": 4,
+        "sido": "대구광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 106,
+        "NatNum": 12084,
+        "addrCd": 2723,
+        "gungu": "북구",
+        "resNm": "대구사격장",
+        "rnum": 5,
+        "sido": "대구광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 15994,
+        "addrCd": 2726,
+        "gungu": "수성구",
+        "resNm": "대구미술관",
+        "rnum": 6,
+        "sido": "대구광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 1649,
+        "NatNum": 177833,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "이월드",
+        "rnum": 7,
+        "sido": "대구광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 770,
+        "NatNum": 65210,
+        "addrCd": 2729,
+        "gungu": "달서구",
+        "resNm": "온천 엘리바덴",
+        "rnum": 8,
+        "sido": "대구광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 1870,
+        "NatNum": 16204,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "허브힐즈 (구 냉천자연랜드)",
+        "rnum": 9,
+        "sido": "대구광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 21,
+        "NatNum": 32468,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "스파밸리",
+        "rnum": 10,
+        "sido": "대구광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "국립대구과학관",
+        "rnum": 11,
+        "sido": "대구광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2771,
+        "gungu": "달성군",
+        "resNm": "사문진유람선(달성호 및 사문진호)",
+        "rnum": 12,
+        "sido": "대구광역시",
+        "yyyymm": "201612"
+    }
+]
